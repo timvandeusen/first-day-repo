@@ -1,1 +1,19 @@
+lesson  {
+  background-color: rgb(238, 238, 236);
+}
+
+#paragraph-1 {
+  color: darkslateblue;
+  background-color: white;
+}
+
+#paragraph-2 {
+  color: darkslateblue;
+  background-color: darkorange;
+}
+
+#paragraph-3 {
+    color: white;
+    background-color: darkslateblue;
+}
 
